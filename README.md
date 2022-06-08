@@ -14,6 +14,6 @@ VR on Linux
 I am currently using Fedora 36 on all of my systems, but I might transition to arch by the end of the year. 
 
 
-#
+## Current Favorite Inspirational Quote 
 "A revolution without dancing is not a revolution worth having."
 - Emma Goldman
